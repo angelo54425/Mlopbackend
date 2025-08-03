@@ -178,5 +178,8 @@ class APILoadTest(HttpUser):
 
 ##LOcustImage 
 ![alt text](image.png)# mlopss
-"# mlop" 
-# Mlopbackend
+🌐 Frontend: [https://ornate-dolphin-6cfd5d.netlify.app](https://ornate-dolphin-6cfd5d.netlify.app)
+
+🎥 Demo Video: [Google Drive Folder](https://drive.google.com/drive/folders/1PrNCa01tidvcJT0KGRJCA_lhCJ1lPPCp?usp=sharing)
+
+---
